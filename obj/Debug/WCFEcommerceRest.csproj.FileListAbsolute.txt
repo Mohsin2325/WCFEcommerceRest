@@ -1,0 +1,5 @@
+J:\Projects\WcfCommerce\WCFEcommerceRest\bin\WCFEcommerceRest.dll.config
+J:\Projects\WcfCommerce\WCFEcommerceRest\bin\WCFEcommerceRest.dll
+J:\Projects\WcfCommerce\WCFEcommerceRest\bin\WCFEcommerceRest.pdb
+J:\Projects\WcfCommerce\WCFEcommerceRest\obj\Debug\WCFEcommerceRest.dll
+J:\Projects\WcfCommerce\WCFEcommerceRest\obj\Debug\WCFEcommerceRest.pdb
